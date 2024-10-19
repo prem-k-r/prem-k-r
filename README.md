@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @prem12321kumar
-- 👀 I’m interested in movies, anime and manga.
+# 💫 About Me
+- 👋 Hi, I am Prem
+- 👀 I’m interested in Movies, Anime and Manga*.
 - 🌱 I’m currently learning Java, C and Python.
 - 💞️ I’m looking to collaborate on new projects to learn something new or other.
 - 📫 How to reach me: You can reach me on mail at prem12321kumar@gmail.com
