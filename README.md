@@ -1,5 +1,5 @@
 # 💫 About Me
-- 👋 Hi, I am Prem
+- 👋 Hi, I am a learner.
 - 👀 I’m interested in Movies, Anime and Manga*.
 - 🌱 I’m currently learning Java, C and Python.
 - 💞️ I’m looking to collaborate on new projects to learn something new or other.
