@@ -1,6 +1,6 @@
 # 💫 About Me
 - 👋 Hi, I am a learner.
-- 👀 I’m interested in Movies, Anime and Manga*.
+- 👀 I’m interested in Movies, Anime, Manga  and more.
 - 🌱 I speak in Apex, C, Java, JavaScript, and Python.
 - 💞️ I'm looking to collaborate on new projects to learn and explore new areas.
 - 📫 How to reach me: You can reach me on mail at prem12321kumar@gmail.com
