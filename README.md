@@ -5,6 +5,7 @@
 - 💞️ I'm looking to collaborate on new projects to learn and explore new areas.
 - 📫 You can reach me on mail at prem12321kumar@gmail.com
 
+[![Static Badge](https://img.shields.io/badge/Prem%20Kumar-white?style=flat&logo=github&logoColor=white&labelColor=black)](https://github.com/prem-k-r)  [![Static Badge](https://img.shields.io/badge/Prem%20Kumar-white?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=blue)](https://linkedin.com/in/prem12321kumar)
 ---
 
 # 🤝 Co-authored text
