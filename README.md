@@ -20,12 +20,16 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) &nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) &nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ---
-
+GitHub Username:
 ```
-GitHub ID: 60751338
+prem-k-r
+```
+GitHub ID:
+```
+60751338
 ```
 ---
 
