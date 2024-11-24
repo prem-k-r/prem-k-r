@@ -14,8 +14,9 @@
 
 ---
 
-# 🤝 Co-authored text
-```Co-authored-by: prem-k-r <60751338+prem-k-r@users.noreply.github.com>```
+```
+GitHub ID: 60751338
+```
 
 ---
 
