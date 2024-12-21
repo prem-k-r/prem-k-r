@@ -8,7 +8,6 @@
 ---
 
 &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=blue)](https://linkedin.com/in/prem12321kumar) &nbsp;&nbsp;&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=white&labelColor=E1306C)](https://www.instagram.com/prem_3.14) &nbsp;&nbsp;&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=blue&labelColor=white&color=blue)](https://t.me/prem12321kumar) &nbsp;&nbsp;&nbsp;
 [![Email Badge](https://img.shields.io/badge/Mail-white?style=flat&logo=gmail&logoColor=white&labelColor=ea4335)](mailto:prem12321kumar@gmail.com)
 
