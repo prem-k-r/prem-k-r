@@ -1,35 +1,43 @@
-# 💫 About Me
-- 👋 Hi, I am a learner.
-- 👀 I’m interested in Movies, Anime, Manga  and more.
-- 🌱 I speak in Apex, C, Java, JavaScript, and Python.
-- 💞️ I'm looking to collaborate on new projects to learn and explore new areas.
-- 📫 You can reach me on mail at prem12321kumar@gmail.com
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="200" height="200" />
+</div>
+
+<br>
+
+<p align="center">
+  <a href="mailto:prem12321kumar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/prem12321kumar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/prem12321kumar"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram Icon" /></a>
+  &nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
 
 ---
 
-&nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=blue&labelColor=white&color=blue)](https://linkedin.com/in/prem12321kumar) &nbsp;&nbsp;&nbsp;
-[![Telegram Badge](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=blue&labelColor=white&color=blue)](https://t.me/prem12321kumar) &nbsp;&nbsp;&nbsp;
-[![Email Badge](https://img.shields.io/badge/Mail-white?style=flat&logo=gmail&logoColor=white&labelColor=ea4335)](mailto:prem12321kumar@gmail.com)
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" />
+  </a>
+</p>
+
+<br>
+
+---
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
+  </a>
+</p>
+
+<br><br>
 
 ---
 
-&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) &nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) &nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;&nbsp;
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) &nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-
----
-GitHub Username:
-```
-prem-k-r
-```
-GitHub ID:
-```
-60751338
-```
----
-
-[![](https://visitcount.itsvg.in/api?id=prem-k-r&icon=8&color=1)](https://visitcount.itsvg.in)
+<img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
