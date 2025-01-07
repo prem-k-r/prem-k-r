@@ -16,28 +16,24 @@
 
 ---
 
-<br>
+<br><br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://prem-k-r.github.io/">
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" />
   </a>
 </p>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://prem-k-r.github.io/">
     <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
   </a>
 </p>
 
-<br>
+<br><br>
 
----
+
 
 <img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
