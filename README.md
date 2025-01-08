@@ -5,11 +5,11 @@
 <br><br>
 
 <p align="center">
-  <a href="mailto:prem12321kumar@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Icon" style="width: 50px;" /></a>
+  <a href="mailto:prem12321kumar@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" style="width: 52px;" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/prem12321kumar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" /></a>
+  <a href="https://linkedin.com/in/prem12321kumar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/prem12321kumar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" style="height: 50px;" /></a>
+  <a href="https://t.me/prem12321kumar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="height: 50px;" /></a>
 </p>
 
 <br>
