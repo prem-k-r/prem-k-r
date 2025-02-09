@@ -13,6 +13,7 @@
 <br>
 
 ---
+
 <br>
 
 <p align="center">
@@ -22,6 +23,7 @@
 </p>
 
 <br>
+
 <p align="center">
   <a href="https://prem-k-r.github.io/">
     <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
@@ -29,6 +31,7 @@
 </p>
 
 <br>
+
 <p align="center">
   <a href="https://prem-k-r.github.io/">
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" />
@@ -43,4 +46,5 @@
 
 ![Trailhead-Stats-Light](images/TScard-light.png#gh-light-mode-only)
 ![Trailhead-Stats-Dark](images/TScard-dark.png#gh-dark-mode-only)
+
 <!--TH_Stats:end-->
