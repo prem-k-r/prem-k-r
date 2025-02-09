@@ -1,7 +1,7 @@
 name: Update Trailhead Stats Manually
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-stats:
@@ -9,20 +9,22 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
-      - uses: nabondance/trailhead-stats@v2.0.0
+      
+      - name: Fetch Trailhead Stats
+        uses: nabondance/trailhead-stats@v2
         with:
           trailhead-username: 'premkr'
           display-type: 'card'
-          showSkill: 'hidden'
-          showCertification: 'detail'
-          showBadge: 'hidden'
-          showSuperBadge: 'hidden'
-          showEventBadge: 'hidden'
-          showStamp: 'hidden'
-          showCertificationLatest: 'hidden'
-          showBadgeLatest: 'hidden'
-          showSuperBadgeLatest: 'hidden'
-          showEventBadgeLatest: 'hidden'
-          showStampLatest: 'hidden'
+          show-skill: 'hidden'
+          show-certification: 'detail'
+          show-badge: 'hidden'
+          show-superbadge: 'hidden'
+          show-event-badge: 'hidden'
+          show-stamp: 'hidden'
+          show-certification-latest: 'hidden'
+          show-badge-latest: 'hidden'
+          show-superbadge-latest: 'hidden'
+          show-event-badge-latest: 'hidden'
+          show-stamp-latest: 'hidden'
