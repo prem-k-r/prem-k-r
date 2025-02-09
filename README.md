@@ -16,6 +16,8 @@ Salesforce Certified Administrator and Developer
 
 <br>
 
+---
+
 <!--TH_Stats:start-->
 
 ![Trailhead-Stats-Light](images/TScard-light.png#gh-light-mode-only)
