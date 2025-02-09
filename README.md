@@ -31,13 +31,21 @@ Salesforce Certified Administrator and Developer
 <br>
 
 <p align="center">
-  <a href="https://prem-k-r.github.io/">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" />
+  <a href="https://www.salesforce.com/trailblazer/premkr">
+    <img alt="Salesforce" src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" style="height: 48px;">
   </a>
 </p>
 
+<br>
 <p align="center">
   <a href="https://prem-k-r.github.io/">
     <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
+  </a>
+</p>
+
+<br>
+<p align="center">
+  <a href="https://prem-k-r.github.io/">
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" />
   </a>
 </p>
