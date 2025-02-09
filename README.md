@@ -11,7 +11,7 @@ Salesforce Certified Administrator and Developer
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/prem12321kumar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="height: 50px;" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/premkr"><img src="https://github.com/user-attachments/assets/8b9844a8-1005-4452-8d59-475e15688c9f" alt="Trailhead" style="height: 49px;" /></a>
+  <a href="https://www.salesforce.com/trailblazer/premkr"><img src="https://github.com/user-attachments/assets/8b9844a8-1005-4452-8d59-475e15688c9f" alt="Trailhead" style="height: 48px;" /></a>
 </p>
 
 <br>
