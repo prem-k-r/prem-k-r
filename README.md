@@ -1,8 +1,8 @@
-<div align="center">
-  <a href="https://github.com/prem-k-r"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="200" height="200" />
-</div>
+<h1 align="center">
+Salesforce Certified Administrator and Developer
+</h1>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="mailto:prem12321kumar@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" style="width: 52px;" /></a>
@@ -14,9 +14,19 @@
 
 <br>
 
----
+<!--TH_Stats:start-->
 
-<br><br>
+<a href="https://www.salesforce.com/trailblazer/premkr">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="TS-cards/TScard-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="TS-cards/TScard-dark.png">
+    <img alt="Shows the Trailhead Stats card in either light or dark theme." src="TS-cards/TScard-light.png">
+</picture>
+</a>
+<!--TH_Stats:end-->
+
+---
+<br>
 
 <p align="center">
   <a href="https://prem-k-r.github.io/">
@@ -24,16 +34,8 @@
   </a>
 </p>
 
-<br><br>
-
 <p align="center">
   <a href="https://prem-k-r.github.io/">
     <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
   </a>
 </p>
-
-<br><br>
-
-
-
-<img alt="Coder GIF" width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
