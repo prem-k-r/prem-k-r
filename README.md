@@ -1,8 +1,4 @@
-<h1 align="center">
-Salesforce Certified Administrator and Developer
-</h1>
-
-<br>
+<br><br>
 
 <p align="center">
   <a href="mailto:prem12321kumar@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" style="width: 52px;" /></a>
@@ -15,14 +11,6 @@ Salesforce Certified Administrator and Developer
 </p>
 
 <br>
-
----
-
-<!--TH_Stats:start-->
-
-![Trailhead-Stats-Light](images/TScard-light.png#gh-light-mode-only)
-![Trailhead-Stats-Dark](images/TScard-dark.png#gh-dark-mode-only)
-<!--TH_Stats:end-->
 
 ---
 <br>
@@ -46,3 +34,13 @@ Salesforce Certified Administrator and Developer
     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" />
   </a>
 </p>
+
+<br>
+
+---
+
+<!--TH_Stats:start-->
+
+![Trailhead-Stats-Light](images/TScard-light.png#gh-light-mode-only)
+![Trailhead-Stats-Dark](images/TScard-dark.png#gh-dark-mode-only)
+<!--TH_Stats:end-->
