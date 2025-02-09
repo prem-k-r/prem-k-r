@@ -18,13 +18,8 @@ Salesforce Certified Administrator and Developer
 
 <!--TH_Stats:start-->
 
-<a href="https://www.salesforce.com/trailblazer/premkr">
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="TS-cards/TScard-light.png">
-    <source media="(prefers-color-scheme: dark)" srcset="TS-cards/TScard-dark.png">
-    <img alt="Shows the Trailhead Stats card in either light or dark theme." src="TS-cards/TScard-light.png">
-</picture>
-</a>
+![Trailhead-Stats-Light](images/TScard-light.png#gh-light-mode-only)
+![Trailhead-Stats-Dark](images/TScard-dark.png#gh-dark-mode-only)
 <!--TH_Stats:end-->
 
 ---
