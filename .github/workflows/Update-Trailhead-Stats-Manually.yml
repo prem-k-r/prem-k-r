@@ -1,0 +1,33 @@
+name: Update Trailhead Stats Manually
+
+on:
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: 'Update trailhead stats'
+        required: false
+        type: boolean
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - uses: nabondance/trailhead-stats@v2
+        with:
+          trailhead-username: 'premkr'
+          display-type: 'card'
+          showSkill: 'hidden'
+          showCertification: 'detail'
+          showBadge: 'hidden'
+          showSuperBadge: 'hidden'
+          showEventBadge: 'hidden'
+          showStamp: 'hidden'
+          showCertificationLatest: 'hidden'
+          showBadgeLatest: 'hidden'
+          showSuperBadgeLatest: 'hidden'
+          showEventBadgeLatest: 'hidden'
+          showStampLatest: 'hidden'
