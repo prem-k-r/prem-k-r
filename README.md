@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/prem12321kumar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="height: 50px;" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/premkr"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-43wFQxlN_QowvFgfFhLK3XyoHVCvRnvsw&s" alt="Trailhead" style="height: 48px;" /></a>
+  <a href="https://www.salesforce.com/trailblazer/premkr"><img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/trailhead-logo-white-outline.png" alt="Trailhead" style="height: 50px;" /></a>
 </p>
 
 <br>
