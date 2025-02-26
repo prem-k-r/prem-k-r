@@ -53,8 +53,8 @@ A Salesforce Developer and Administrator by profession
           alt="VS Code" /> <br>VS Code </td>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48"
           alt="GitHub" /> <br>GitHub </td>
-      <td align="center" width="120" height="110"> <img
-          src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="48"
+      <td align="center" width="100" height="106"> <img
+          src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="40"
           alt="Salesforce" /> <br>Salesforce </td>
     </tr>
   </table>
