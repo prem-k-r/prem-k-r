@@ -86,7 +86,7 @@ A Salesforce Developer and Administrator by profession.
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
         <br>CSS </td>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"
-          alt="MySQL" /> <br>MySQL </td>
+          alt="MySQL" /> <br>SQL </td>
     </tr>
   </table>
 </div>
