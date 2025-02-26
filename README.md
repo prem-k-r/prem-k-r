@@ -1,14 +1,30 @@
-<br><br>
+## 👋 [Hi, I'm Prem](https://prem-k-r.github.io/)
+A Salesforce Developer and Administrator by profession.
 
-<p align="center">
-  <a href="mailto:prem12321kumar@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" style="width: 52px;" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/prem12321kumar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/prem12321kumar"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="height: 50px;" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/premkr"><img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/trailhead-logo-white-outline.png" alt="Trailhead" style="height: 50px;" /></a>
-</p>
+## 🔗 Connect with Me
+
+<div align="center">
+<table> 
+  <tr>
+    <td align="center" width="100" height="110">
+    <a href="mailto:prem12321kumar@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="48" height="48" alt="Gmail" />
+    </a> <br>Gmail </td> 
+    <td align="center" width="100" height="110"> 
+      <a href="https://linkedin.com/in/prem12321kumar">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+      </a> <br>LinkedIn </td> 
+    <td align="center" width="100" height="110">
+    <a href="https://t.me/prem12321kumar">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram" />
+    </a> <br>Telegram </td>
+    <td align="center" width="100" height="110">
+    <a href="https://www.salesforce.com/trailblazer/premkr">
+      <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/trailhead-logo-white-outline.png" width="48" height="48" alt="Trailhead" />
+    </a> <br>Trailhead </td>
+  </tr>
+</table>
+</div>
 
 <br>
 
