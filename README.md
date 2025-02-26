@@ -37,32 +37,19 @@ A Salesforce Developer and Administrator by profession.
 
 <br>
 
----
+## 🚀 Below are some of the technology stacks that I enjoy working with
 
 <br>
 
-<p align="center">
-  <a href="https://www.salesforce.com/trailblazer/premkr">
-    <img alt="Salesforce" src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg"
-      style="height: 48px;">
-  </a>
-</p>
+<div align="center"> <table> <tr> <td align="center" width="150" height="110"> <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="48" alt="Salesforce" /> <br>Salesforce </td> </tr> </table> </div>
 
 <br>
 
-<p align="center">
-  <a href="https://prem-k-r.github.io/">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
-  </a>
-</p>
+<div align="center"> <table> <tr> <th colspan="3">🖥️ Tools & Platforms</th> </tr> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" /> <br>Windows </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /> <br>VS Code </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /> <br>GitHub </td> </tr> </table> </div>
 
 <br>
 
-<p align="center">
-  <a href="https://prem-k-r.github.io/">
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" />
-  </a>
-</p>
+<div align="center"> <table> <tr> <th colspan="7">🌐 Languages</th> </tr> <tr> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> <br>Java </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /> <br>C </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS </td> <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /> <br>MySQL </td> </tr> </table> </div>
 
 <br>
 
