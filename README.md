@@ -70,7 +70,7 @@ A Salesforce Developer and Administrator by profession.
 <div align="center">
   <table>
     <tr>
-      <th colspan="7">🌐 Languages</th>
+      <th colspan="7">🌐 Languages I Speak</th>
     </tr>
     <tr>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=java" width="48" height="48"
