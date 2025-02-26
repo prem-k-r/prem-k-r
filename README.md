@@ -44,17 +44,7 @@ A Salesforce Developer and Administrator by profession.
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="150" height="110"> <img
-          src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="48"
-          alt="Salesforce" /> <br>Salesforce </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <th colspan="3">🖥️ Tools & Platforms</th>
+      <th colspan="4">🖥️ Tools & Platforms</th>
     </tr>
     <tr>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=windows" width="48" height="48"
@@ -63,9 +53,14 @@ A Salesforce Developer and Administrator by profession.
           alt="VS Code" /> <br>VS Code </td>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48"
           alt="GitHub" /> <br>GitHub </td>
+      <td align="center" width="120" height="110"> <img
+          src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="48"
+          alt="Salesforce" /> <br>Salesforce </td>
     </tr>
   </table>
 </div>
+
+<br>
 
 <div align="center">
   <table>
