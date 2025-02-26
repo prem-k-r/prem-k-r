@@ -51,8 +51,6 @@ A Salesforce Developer and Administrator by profession.
   </table>
 </div>
 
-<br>
-
 <div align="center">
   <table>
     <tr>
@@ -68,8 +66,6 @@ A Salesforce Developer and Administrator by profession.
     </tr>
   </table>
 </div>
-
-<br>
 
 <div align="center">
   <table>
@@ -97,7 +93,7 @@ A Salesforce Developer and Administrator by profession.
 
 <br>
 
----
+## 🏅 Salesforce Certifications & Trailhead Rank
 
 <!--TH_Stats:start-->
 
