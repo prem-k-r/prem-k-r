@@ -44,18 +44,19 @@ A Salesforce Developer and Administrator by profession
 <div align="center">
   <table>
     <tr>
-      <th colspan="4">🖥️ Tools & Platforms</th>
+      <th colspan="6">🖥️ Tools & Platforms</th>
     </tr>
     <tr>
-      <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=windows" width="48" height="48"
-          alt="Windows" /> <br>Windows </td>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"
-          alt="VS Code" /> <br>VS Code </td>
+          alt="VS Code" /> <br>VS Code</td>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48"
-          alt="GitHub" /> <br>GitHub </td>
-      <td align="center" width="100" height="106"> <img
-          src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="40"
-          alt="Salesforce" /> <br>Salesforce </td>
+          alt="GitHub" /> <br>GitHub</td>
+      <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48"
+          alt="Git" /> <br>Git</td>
+<!--       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=svg" width="48" height="48"
+          alt="SVG" /> <br>SVG</td> -->
+      <td align="center" width="100" height="106"> <img src="https://www.salesforce.com/content/dam/sfdc-docs/www/logos/logo-salesforce.svg" height="40"
+          alt="Salesforce" /> <br>Salesforce</td>
     </tr>
   </table>
 </div>
@@ -65,7 +66,7 @@ A Salesforce Developer and Administrator by profession
 <div align="center">
   <table>
     <tr>
-      <th colspan="7">🌐 Languages I Speak</th>
+      <th colspan="7">🌐 Languages</th>
     </tr>
     <tr>
       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=java" width="48" height="48"
