@@ -1,6 +1,6 @@
 ## 👋 [Hi, I'm Prem](https://prem-k-r.github.io/)
 
-A Salesforce Developer and Administrator by profession
+A Salesforce Developer and Administrator by profession. Beyond my standard work, I love weaving code to craft beautiful and functional things.
 
 ## 🔗 Connect with Me
 
